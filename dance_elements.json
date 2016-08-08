@@ -1,0 +1,57 @@
+{
+    "feet": [
+        "step touch",
+        "tick tocks",
+        "toe-heal"
+    ],
+    "shoulders": [
+        "backwards cirles",
+        "forwards circles",
+        "right forward circles",
+        "left forward cirles",
+        "right back cirlces",
+        "left back circles",
+        "alternating forward cirlces",
+        "alternating backward cirlces",
+        "one up, one down",
+        "one up, one down shakes",
+        "back and forward",
+        "shimmy"
+    ],
+    "chest": [
+        "flat cirlces clockwise",
+        "flat cirlces anti-clockwise",
+        "tipping cirlces clockwise",
+        "tipping cirlces anti-clockwise",
+        "ferris wheel paralell to front to the right",
+        "ferris wheel paralell to front to the left",
+        "chomp with ribs",
+        "figure eight paralell to floor, forward first",
+        "figure eight paralell to floor, backward first",
+        "figure eight paralell to front, up first",
+        "figure eight paralell to front, down first",
+        "figure eight paralell to side (start with chomp)"
+    ],
+    "hips": [
+        "circles paralell to floor, clockwise",
+        "circles paralell to floor, anti-clockwise",
+        "hip butt pops",
+        "hip butt pops, shakes",
+        "side to side pops",
+        "shifting circles (fake hooping)",
+        "figure eight paralell to floor, back first",
+        "figure eight paralell to floor, front first",
+        "figure eight paralell to front, up first",
+        "figure eight paralell to front, down first"
+    ],
+    "knees": [
+        "cirlces in together",
+        "cirlces out together",
+        "right circling in",
+        "left circling in",
+        "right cifcling out",
+        "left circling out",
+        "alternating circles out",
+        "alternating circles in"
+    ]
+}
