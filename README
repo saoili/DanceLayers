@@ -1,0 +1,20 @@
+dance_layers is a simple python 2 program to suggest combinations of three dance elements to try layering on each other
+
+- Run as "python dance_layers.py <file_name>"" where file_name is a json file stored in the same folder of the format 
+{
+    "body part 1": [
+        "move 1",
+        "move 2",
+        "move 3"
+    ],
+    "body part 2" ...
+}
+- An example json file of blues movements is included here, with details inspired by the wonderful Julie Brown's solo class at Spoonful 2016
+- Default setting will always start with the feet (and assumes a 'feet' element in the json). Changing this will require a change to the constant within the code
+- The sample file will likely produce some very weird and/or difficult combinations, this is by design
+
+
+TO DO
+- Write a front end so it can be more widely used
+- Make compatible with python 3
+- Make switching off 'START_WITH_FEET' easier
