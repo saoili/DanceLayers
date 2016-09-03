@@ -1,4 +1,4 @@
-dance_layers is a simple python 2 program to suggest combinations of three dance elements to try layering on each other
+dance_layers is a simple python 2 / 3 program to suggest combinations of three dance elements to try layering on each other
 
 - Run as "python dance_layers.py <file_name>"" where file_name is a json file stored in the same folder of the format 
 {
@@ -16,5 +16,4 @@ dance_layers is a simple python 2 program to suggest combinations of three dance
 
 TO DO
 - Write a front end so it can be more widely used
-- Make compatible with python 3
 - Make switching off 'START_WITH_FEET' easier
