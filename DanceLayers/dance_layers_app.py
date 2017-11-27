@@ -5,7 +5,7 @@ from copy import copy
 
 
 app = Flask(__name__)
-ELEMENTS_FILE = "dance_elements.json"
+ELEMENTS_FILE = "/home/saoili/DanceLayers/DanceLayers/dance_elements.json"
 START_WITH_FEET = True
 
 
